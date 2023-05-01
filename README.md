@@ -14,7 +14,7 @@ To install all the dependences of the project, run the following command:
 
 
 #### Source Code:
- - Link : https://github.com/shakti1590/React-Calculato
+ - Link : https://github.com/shakti1590/React-Calculator
 
 
 #### Deployment Link:
@@ -25,8 +25,6 @@ To install all the dependences of the project, run the following command:
 ![Project Preview](./src/calc-app.png)
 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 <p align="center">
   Show some :heart: by starring the repository.
