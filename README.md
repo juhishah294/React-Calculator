@@ -21,7 +21,7 @@ To install all the dependences of the project, run the following command:
 
 
 #### Deployment Link:
- - Link : https://text-analyzer-kappa.vercel.app/
+ - Link : https://react-calculator-omega-navy.vercel.app/
 
 
 
